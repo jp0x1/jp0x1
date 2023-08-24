@@ -3,10 +3,10 @@
 Computer Science Student
 
 #### Stuff I Know For Sure
-- Python (Flask, APIs, networks, honestly whatever I can find online) 
-- Java (i dont want to learn this anymore)
-- Go / Golang (To make defunct Malware)
-- Web Stuff (HTML/CSS and maybe JS)
+- Python 
+- Java 
+- Go / Golang (idk why)
+- HTML/CSS/JS
 - How to google for coding answers
 
 #### Stuff I want to learn
@@ -14,7 +14,8 @@ Computer Science Student
 - Modern Cryptography
 - BIG Web App Creating
 - Raspberry PI
-  
+- git
+
 #### Stuff I Do
 - CTF (Team: horribleatctf)
 - Programming / Scripting
