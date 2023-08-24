@@ -21,6 +21,7 @@ Computer Science Student
 - ig learning
   
 #### To do
-- Whatever nonfunctioning malicious programs I can make
+- Whatever useless programs I want to make
 - Whatever my code club is doing
+- Something with golang and actual hardware
 - School stuff
