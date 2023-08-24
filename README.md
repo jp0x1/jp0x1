@@ -1,16 +1,26 @@
-### Hi there 👋
+### Jake Park, The Copy Paste Coder
 
-<!--
-**3dgyGamer/3dgyGamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student
 
-Here are some ideas to get you started:
+#### Stuff I Know For Sure
+- Python (Flask, APIs, networks, honestly whatever I can find online) 
+- Java (i dont want to learn this anymore)
+- Go / Golang (To make defunct Malware)
+- Web Stuff (HTML/CSS and maybe JS)
+- How to google for coding answers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Stuff I want to learn
+- Binary Exploitation
+- Modern Cryptography
+- BIG Web App Creating
+- Raspberry PI
+  
+#### Stuff I Do
+- CTF (Team: horribleatctf)
+- Programming / Scripting
+- ig learning
+  
+#### To do
+- Whatever nonfunctioning malicious programs I can make
+- Whatever my code club is doing
+- School stuff
