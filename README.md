@@ -26,3 +26,5 @@ Computer Science Student
 - Whatever my code club is doing
 - Something with golang and actual hardware
 - School stuff
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3dgyGamer)](https://github.com/3dgyGamer/github-readme-stats)
