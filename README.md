@@ -1,30 +1,27 @@
-### Jake Park, The Copy Paste Coder
+### Jake Park, Computer Science Man
 
-Computer Science Student
+Computer Science Student 
 
-#### Stuff I Know For Sure
+#### Stuff I think I Know
 - Python 
 - Java 
-- Go / Golang (idk why)
+- Go / Golang
 - HTML/CSS/JS
-- How to google for coding answers
+- How to google for answers
 
-#### Stuff I want to learn
-- Binary Exploitation
-- Modern Cryptography
-- BIG Web App Creating
-- Raspberry PI
-- git
+#### Stuff I should do
+- Program more things
+- Compete and actually win stuff
+- Build a stronger code resume
+
+#### Stuff I want to do
+
 
 #### Stuff I Do
 - CTF (Team: horribleatctf)
-- Programming / Scripting
-- ig learning
+- Programming
+- Learning web security stuff now
   
-#### To do
-- Whatever useless programs I want to make
-- Whatever my code club is doing
-- Something with golang and actual hardware
-- School stuff
+####
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3dgyGamer)](https://github.com/3dgyGamer/github-readme-stats)
