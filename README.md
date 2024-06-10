@@ -3,9 +3,9 @@
 Computer Science Student 
 
 #### Stuff I do
- make web apps
- ctf
- learn
+ > make web apps
+ > ctf
+ > learn
 
 
 
