@@ -1,11 +1,11 @@
-### Jake Park, Computer Science Man
+### Jake Park
 
-Computer Science Student 
+Computer Science Student at bergen tech, currently wanting to LEAVE compsci
 
 #### Stuff I do
-make web apps, ctf, learn, and fail
+study, ctf, drink 3 black coffees a day, study.
 
-
+Currently interested in cybersecurity, quantum computing, and electrical engineering.
 
 
   
