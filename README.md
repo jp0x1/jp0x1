@@ -10,6 +10,5 @@ Currently interested in cybersecurity, quantum computing, and electrical enginee
 
   
 ####
-[![Jake's GitHub stats](https://github-readme-stats.vercel.app/api?username=jp0x1&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jp0x1)](https://github.com/jp0x1/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jp0x1&theme=material-palenight&langs_count=6&hide=ejs,html" height="400" align="center" />
 <img src="https://api.githubtrends.io/user/svg/jp0x1/repos?time_range=three_months&loc_metric=changed&theme=bright_lights" align="center"/>
