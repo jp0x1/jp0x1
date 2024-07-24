@@ -4,8 +4,11 @@ I just live life. Drink coffee, take walks, ctf web stuff, physics math stuff. M
 
 ### Stuff I Know
 -> python, some go, some rust, some C, some Java, sql
+
 -> classical physics with calculus: mechanics and electromagnetism
+
 -> science: numpy, matplotlib, scipy
+
 -> web dev: some react, flask, sqlite3, whatever restful API stuff for go
 
 
