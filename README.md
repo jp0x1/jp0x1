@@ -1,6 +1,6 @@
 ### Jake Park - 'jp'
 
-I just live life. Drink coffee, take walks, ctf web stuff, physics math stuff. Maybe wants to major in physics or electrical engineering. 
+I just live life. Drink my iced coffee, take walks, ctf web stuff, physics math stuff. Maybe wants to major in physics or electrical engineering. 
 
 ### Stuff I Know
  python, some go, some rust, some C, some Java, sql
