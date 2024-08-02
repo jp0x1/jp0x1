@@ -2,6 +2,8 @@
 
 I just live life. Drink my iced coffee, take walks, ctf stuff, physics math stuff. Maybe wants to major in physics or electrical engineering. 
 
+currently interested in learning... pwn, reverse, Rust, physics.
+
 ### Stuff I Know
  python, some go, some rust, some C, some Java, sql
 
